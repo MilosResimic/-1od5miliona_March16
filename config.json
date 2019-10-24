@@ -8,9 +8,9 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "Network is based on  21 431 tweets containing hashtag #1od5miliona. The edges exist between two users if one retweets another user\u0027s tweet. Nodes are colored based on community that they belong to: yellowish are anti-govt and green are pro-govt. The overall network has 6213 nodes and 15339 edges. Strong polarization visible.",
+    "more": "Mreža je zasnovana na  21 431 tvitova sa heštagom #1od5miliona u danima oko protesta 16. marta. Veza između dva korisnika postoji ako jedan korisnik retvituje tvit drugog. Korisnici su obojeni prema zajednici kojoj pripadaju, žuti su pro-vladini, a plavi anti-vladini. Cela mreža ima 6213 korisnika i 15339 linkova. Vidljiva je oštra polarizacija.",
     "intro": " ",
-    "title": "Anti-government protests - #1od5miliona"
+    "title": "Tviter mreža anti-vladinih protesta - #1od5miliona od 16. marta"
   },
   "legend": {
     "edgeLabel": " retweet",
